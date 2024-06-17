@@ -1,12 +1,18 @@
 .....
 acg maker
 .....
+
+商用ゲームエンジンUE, GODOTを参考し、ミニエンジンを制作
+
+
 参考UE, GODOT
 制作一个专门制作黄油的游戏引擎
 
+
+
 使用工具:
 C++
-dx12/vaulkan
+dx12/vaulkan/OpenGL => RHI
 imgui
 
 也许可以加入AI工具
